@@ -1,0 +1,6 @@
+{
+	"appId": "com.ignis.test-001",
+	"appName": "cap-webview",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
