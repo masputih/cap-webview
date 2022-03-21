@@ -14,7 +14,7 @@ Terus
 npx cap sync
 ```
 
-## Ngetes di android device
+## Install app di android device
 
 ```
 npx cap open android
@@ -22,10 +22,14 @@ npx cap open android
 
 Terus jalanin app dari android studio. Colokin devicenya dulu.
 
-## Tes di ios device
+## Install app di ios device
 
 ```
 npx cap open ios
 ```
 
 Idem. Jalanin app dari XCode. 
+
+## Ngetes appnya
+
+Kalo udah bisa jalan di hape, tap "Request Camera Permission", kasih ijin akses kamera terus scan sebarang QR code. Bisa generate sendiri pake [QRCode Generator](https://www.the-qrcode-generator.com/): 
